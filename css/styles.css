@@ -196,8 +196,7 @@ section {
   box-sizing: border-box;
   width: 80%;
   margin-right: 0 !important;*/
-  border-radius: 112.5px;
-  width: 80%;
+  border-radius: 1rem;
   margin: 20px 0 20px 10%;
 }
 
